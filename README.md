@@ -33,7 +33,7 @@ This program show currency rate prediction by two kinds algorithms. The first is
 
 
 ## Setup
-Every requirements are inside file requirements.txt
+Every requirements are inside the file requirements.txt
 - Installation procedure:
 
 `pip install (libraries name)`
